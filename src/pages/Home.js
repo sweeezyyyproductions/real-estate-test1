@@ -214,7 +214,7 @@ const Home = () => {
 
       {/* Static Map Image */}
       <section style={{ padding: '50px 0' }}>
-        <h2>Our Service Areas</h2>
+        <h2>Our Service Areas!</h2>
         <Card cover={<img alt="map" src="/images/map.jpg" />} />
       </section>
     </CustomLayout>
